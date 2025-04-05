@@ -1,6 +1,7 @@
 # anykernel_r5x
 
 - simple way to get archive & upload kernel.
+- clone in outside kernel folder.
 - edit getkernel.sh before run this script.
 - edit banner with your own style.
 - just run bash getkernel.sh after kernel compiling.
