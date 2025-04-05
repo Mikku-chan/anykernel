@@ -1,0 +1,1 @@
+rm -rf zephyruskernel.zip && rm -rf Image.gz-dtb && rm -rf dtbo.img && cp ../zephyrus-kernel-r5x/out/arch/arm64/boot/Image.gz-dtb ./ && cp ../zephyrus-kernel-r5x/out/arch/arm64/boot/dtbo.img ./ && zip -r9 zephyruskernel * && curl uploader.sh -T zephyruskernel.zip
