@@ -1,6 +1,6 @@
 # anykernel_r5x
 
-- simple way to get archive & upload kernel.
+- simple way to auto archive & upload your own kernel.
 - clone in outside kernel folder.
 - edit getkernel.sh before run this script.
 - edit banner with your own style.
